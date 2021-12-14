@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Users\\33788\\OnMyStep",
+  "type": [
+    "pwa"
+  ],
+  "name": "On my Step",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": false,
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#fe8f18",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": true
+  },
+  "customBuild": false
+}
